@@ -18,7 +18,7 @@ A modern, voice assistant built with React, TypeScript, and the Hugging Face Inf
 - ✨ **Real-time Streaming** - See responses as they're generated
 - 🎨 **Futuristic UI** - Glowing effects and smooth animations
 - 📱 **Responsive Design** - Works on all devices
-- 🤖 **Powered by Llama 2** - Advanced language model from Meta
+- 🤖 **Powered by Llama 3.2** - Advanced language model from Meta
 
 ## Tech Stack
 
