@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite --host",  // Adicionado para o Railway
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
