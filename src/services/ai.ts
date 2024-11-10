@@ -1,6 +1,7 @@
 import { HfInference } from "@huggingface/inference";
 import type { ChatMessage, ChatResponse } from '../types/api';
 
+const API_KEY = "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";
 const API_KEY = "hf_api";
 const MODEL = "meta-llama/Llama-3.2-3B-Instruct";
 
